@@ -1,6 +1,7 @@
 Hello world!!!
 12345
 Goob evening! (from branch master) 
-another line from user1
+Line from user2
+Line from user1
 
 
